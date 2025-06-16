@@ -1,0 +1,9 @@
+# 排除 100ANDRO 資料夾
+100ANDRO/
+
+# 排除 bin 和 obj 資料夾
+bin/
+obj/
+
+# 排除 .sln 檔案
+*.sln
