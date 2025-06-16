@@ -2,7 +2,7 @@
 using System.IO;
 
 //string folderPath = Directory.GetCurrentDirectory();
-string folderPath = @"C:\Users\William\OneDrive\桌面\Web\Rename-App\100ANDRO"; // Change this to your target folder path
+string folderPath = @"Your Folder Path"; // Change this to your target folder path
 if (!Directory.Exists(folderPath))
 {
     Console.WriteLine("指定的資料夾不存在。");
